@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?nilgunaydin=ryo-ma&theme=darkhub" alt="nilgunaydin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=darkhub" alt="nilgunaydin" /></a> </p>
 
 - 🌱 I’m currently learning **selenium 4**
 
