@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  >
 </p>
  
- <p align="center"   background-color: rgb(129, 77, 177) ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/1618435.png?raw=true"/></p>
+ <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/1618435.png?raw=true" alt="Coder GIF" width="500"/></p>
  
 <h1 align="center">Hi 👋, I'm Nilgun Aydin</h1>
 <h3 align="center">Full Stack Automation Engineer</h3>
