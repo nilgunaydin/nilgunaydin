@@ -39,8 +39,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilgunaydin&theme=dracula)
 
-<p> ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilgunaydin&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula) </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilgunaydin&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula) 
 
 
 
