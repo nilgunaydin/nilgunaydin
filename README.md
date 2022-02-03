@@ -46,6 +46,6 @@
 
 <p>&nbsp;</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilgunaydin&" alt="nilgunaydin" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nilgunaydin&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
 
 ![snake gif](https://github.com/nilgunaydin/nilgunaydin/blob/output/github-contribution-grid-snake.gif)
