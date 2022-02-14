@@ -42,7 +42,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula) 
 
 
-
 <p>&nbsp;</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nilgunaydin&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
