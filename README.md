@@ -8,10 +8,9 @@
 <h3 align="center">Full Stack Automation Engineer</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=darkhub" alt="nilgunaydin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=oldie" alt="nilgunaydin" /></a> </p>
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
 
 - 🌱 I’m currently learning **selenium 4**
 
