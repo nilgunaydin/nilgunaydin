@@ -10,6 +10,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=darkhub" alt="nilgunaydin" /></a> </p>
 
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
+
 - 🌱 I’m currently learning **selenium 4**
 
 - 💬 Ask me about **java, pyhton, html, css, lambda expression**
