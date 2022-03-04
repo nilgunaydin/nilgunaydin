@@ -4,13 +4,11 @@
  
  <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="300"/></p>
  
- 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Nilgun</h1>
 <h3 align="center">Full Stack Automation Engineer</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=oldie" alt="nilgunaydin" /></a> </p>
-
 
 - 🌱 I’m currently learning **selenium 4**
 
@@ -23,7 +21,6 @@
 ![snake gif](https://github.com/nilgunaydin/nilgunaydin/blob/output/github-contribution-grid-snake.gif)
 
 <p>&nbsp;</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +36,6 @@
 
 <p>&nbsp;</p>
 
-
 <h3 align="left">Work Places:</h3>
 
   <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="50" height="50"/> <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="50" height="50" /> <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="50" height="50" />
@@ -53,4 +49,3 @@
 <p>&nbsp;</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nilgunaydin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=8B24DD&fire=6700FF&sideLabels=AC1DCB&ring=8910DD&sideNums=9E1EF7&currStreakLabel=AC1DCB&currStreakNum=8910DD)](https://git.io/streak-stats)
-
