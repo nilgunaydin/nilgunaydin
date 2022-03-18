@@ -1,5 +1,4 @@
   <p align="right">   ![](https://visitor-badge.glitch.me/badge?page_id=nilgunaydin.nilgunaydin) </p>
-<p align= "right"> <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  > </p>
 
  <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="300"/></p>
  
