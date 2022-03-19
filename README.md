@@ -2,11 +2,11 @@
  
 <!-- <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  >  -->
 
-![gitartwork](gitartwork.svg) 
+<h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm </h1> ![gitartwork](gitartwork.svg) 
 
 <!-- <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="300"/></p> -->
  
-<h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Nilgun</h1>
+
 <h3 align="center">Full Stack Automation Engineer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=oldie" alt="nilgunaydin" /></a> </p>
