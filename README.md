@@ -13,6 +13,10 @@
 <h3 align="center">Full Stack Automation Engineer</h3>
 
 https://github-profile-trophy.vercel.app/?nilgunaydin=ryo-ma&theme=dracula
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=oldie" alt="nilgunaydin" /></a> </p>
+
 
 - 🌱 I’m currently learning **API Testing**
 
