@@ -1,7 +1,7 @@
  ![](https://visitor-badge.glitch.me/badge?page_id=nilgunaydin.nilgunaydin) 
 <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  >
 
-<p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="250"/></p>
+<p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="270"/></p>
 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm </h1> 
 
