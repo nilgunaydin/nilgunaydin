@@ -12,7 +12,7 @@
 
 <h3 align="center">Full Stack Automation Engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=juicyfresh&no-bg=true" alt="nilgunaydin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=juicyfresh&no-bg=true&title=Stars,Followers,Commits,Repositories,PullRequest" alt="nilgunaydin" /></a> </p>
 
 
 - 🌱 I’m currently learning **API Testing**
