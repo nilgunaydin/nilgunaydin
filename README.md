@@ -12,7 +12,7 @@
 
 <h3 align="center">Full Stack Automation Engineer</h3>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?nilgunaydin=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
