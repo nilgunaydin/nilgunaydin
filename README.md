@@ -50,7 +50,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilgunaydin&no-bg=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilgunaydin&no-bg=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula&no-bg=true) 
 
 <p>&nbsp;</p>
 
