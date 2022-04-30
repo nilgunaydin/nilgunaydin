@@ -49,7 +49,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilgunaydin&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula) 
 
-
 <p>&nbsp;</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nilgunaydin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=8B24DD&fire=6700FF&sideLabels=AC1DCB&ring=8910DD&sideNums=9E1EF7&currStreakLabel=AC1DCB&currStreakNum=8910DD)](https://git.io/streak-stats)
