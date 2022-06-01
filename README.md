@@ -1,14 +1,10 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nilgunaydin.nilgunaydin) -->
 
-
-
 <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  >
 
 <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="270"/></p>
 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm </h1> 
-
-
 
 ![gitartwork](gitartwork.svg) 
   
@@ -35,7 +31,6 @@
 <a href="https://discord.gg/#9011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9011" height="30" width="40" /></a>  
 </p>
 
-
 <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,8 +39,6 @@
 <p>&nbsp;</p>
 
 <h3 align="left">Work Places:</h3>
-
-
 
   <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="50" height="50"/> <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="50" height="50" /> <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="50" height="50" />
   </p>
