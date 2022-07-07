@@ -1,14 +1,12 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nilgunaydin.nilgunaydin) -->
 
 
-
 <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  >
 
 
 <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="270"/></p>
 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm </h1>
-
 
 ![gitartwork](gitartwork.svg) 
   
@@ -63,6 +61,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilgunaydin&theme=dracula) 
 
 <p>&nbsp;</p>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nilgunaydin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=8B24DD&fire=6700FF&sideLabels=AC1DCB&ring=8910DD&sideNums=9E1EF7&currStreakLabel=AC1DCB&currStreakNum=8910DD)](https://git.io/streak-stats)
 
