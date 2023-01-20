@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Nilgun </h1>
 
- ![gitartwork](gitartwork.svg) 
+<!-- ![gitartwork](gitartwork.svg) --> 
  
  
 <h3 align="center">Full Stack Automation Engineer</h3>
@@ -21,9 +21,9 @@
 
 <p>&nbsp;</p>
 
- <img src= "https://github.com/nilgunaydin/nilgunaydin/blob/main/github-user-contribution%20(1).svg" >
+<!-- <img src= "https://github.com/nilgunaydin/nilgunaydin/blob/main/github-user-contribution%20(1).svg" >  -->
 <!-- <img src= "https://github.com/nilgunaydin/nilgunaydin/blob/main/github-user-contribution.svg" > -->
-<!-- ![snake gif](https://github.com/nilgunaydin/nilgunaydin/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/nilgunaydin/nilgunaydin/blob/output/github-contribution-grid-snake.gif)
 
 <p>&nbsp;</p>
 
