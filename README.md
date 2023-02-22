@@ -1,14 +1,23 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nilgunaydin.nilgunaydin) -->
 
+
 <img src="https://komarev.com/ghpvc/?username=nilgunaydin&label=Profile%20views&color=0e75b6&style=flat"  alt="nilgunaydin"  >
+
 
 <p align="center" ><img src="https://github.com/nilgunaydin/nilgunaydin/blob/main/codelikeagirl.gif?raw=true" alt="Coder GIF" width="270"/></p>
 
+
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Nilgun </h1>
+
+
 
 <!-- ![gitartwork](gitartwork.svg) --> 
 
+
+
+
 <h3 align="center">Full Stack Automation Engineer</h3>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=juicyfresh&no-bg=true&margin-w=10" alt="nilgunaydin" /> </a> </p>
 
@@ -19,6 +28,7 @@
 - ⚡ Fun fact **i'm a lawyer 🤭**
 
 <p>&nbsp;</p>
+
 
 <!-- <img src= "https://github.com/nilgunaydin/nilgunaydin/blob/main/github-user-contribution%20(1).svg" >  -->
 <!-- <img src= "https://github.com/nilgunaydin/nilgunaydin/blob/main/github-user-contribution.svg" > -->
