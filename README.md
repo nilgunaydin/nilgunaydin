@@ -33,7 +33,6 @@
 <a href="https://discord.gg/#9011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9011" height="30" width="40" /></a>  
 </p>
 
-
 <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
