@@ -17,6 +17,7 @@
 
 - 💬 Ask me about **java, pyhton, html, css, lambda expression**
 
+
 - ⚡ Fun fact **i'm a lawyer 🤭**
 
 <p>&nbsp;</p>
