@@ -18,6 +18,7 @@
 
 - ⚡ Fun fact **i'm a lawyer 🤭**
 
+
 <p>&nbsp;</p>
 
 <!-- <img src= "https://github.com/nilgunaydin/nilgunaydin/blob/main/github-user-contribution%20(1).svg" >  -->
