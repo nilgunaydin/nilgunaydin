@@ -31,8 +31,8 @@
 <a href="https://www.linkedin.com/in/nilgnaydin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilgnaydin/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nltlb9597" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nltlb9597" height="30" width="40" /></a>
 <a href="https://discord.gg/#9011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9011" height="30" width="40" /></a>  
+<a href="https://nilgunbasar.medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#9011" height="30" width="40" /></a>  
 </p>
-
 <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
