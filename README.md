@@ -9,7 +9,7 @@
 <!-- ![gitartwork](gitartwork.svg) -->  
 
 <h3 align="center">Full Stack Automation Engineer</h3>
- 
+  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilgunaydin&theme=juicyfresh&no-bg=true&margin-w=10" alt="nilgunaydin" /> </a> </p>
  
 - 🌱 I’m currently learning **Cypress** 
